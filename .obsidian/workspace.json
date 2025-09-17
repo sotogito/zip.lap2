@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/식품 등록 정책.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/초안.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "식품 등록 정책"
+              "title": "초안"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/식품 등록 정책.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/초안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "식품 등록 정책 의 백링크"
+              "title": "초안 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/식품 등록 정책.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/초안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "식품 등록 정책 의 나가는 링크"
+              "title": "초안 의 나가는 링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/식품 등록 정책.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/초안.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "식품 등록 정책 의 개요"
+              "title": "초안 의 개요"
             }
           }
         ]
@@ -172,11 +172,12 @@
   },
   "active": "797474e8916002ae",
   "lastOpenFiles": [
-    "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
-    "아이디어/🍱 동네 잉여 음식 판매 서비스/식품 등록 정책.md",
-    "아이디어/🍱 동네 잉여 음식 판매 서비스/판매자 기부 기능.md",
-    "아이디어/🍱 동네 잉여 음식 판매 서비스/기술.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/픽업 플랜 기능.md",
     "아이디어/🍱 동네 잉여 음식 판매 서비스/초안.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/판매자 기부 기능.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/기술.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/식품 등록 정책.md",
     "아이디어/🍱 동네 잉여 음식 판매 서비스/유사 서비스.md",
     "아이디어/무제.md",
     "아이디어/🍱 동네 잉여 음식 판매 서비스",
