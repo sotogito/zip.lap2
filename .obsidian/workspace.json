@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "한계"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 의 백링크"
+              "title": "한계 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 의 나가는 링크"
+              "title": "한계 의 나가는 링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 의 개요"
+              "title": "한계 의 개요"
             }
           }
         ]
@@ -171,5 +171,15 @@
     }
   },
   "active": "797474e8916002ae",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/판매자 기부 기능.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/기술.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/초안.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/유사 서비스.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스/한계.md",
+    "아이디어/무제.md",
+    "아이디어/🍱 동네 잉여 음식 판매 서비스",
+    "README.md",
+    "아이디어"
+  ]
 }
